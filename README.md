@@ -21,4 +21,5 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * Choose the right base branch;
 * Include tests and documentation;
 * Clean up "oops" commits before submitting;
-* Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
+* Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide);
+* Watch the repository to stay connected.
